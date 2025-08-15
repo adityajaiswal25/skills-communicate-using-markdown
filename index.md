@@ -4,4 +4,9 @@
 ~~~ python
 print("hello by python")
 ~~~
+``` javascript
+var myVar = "Hello, world!";
+```
+
+
 
